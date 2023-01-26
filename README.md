@@ -11,3 +11,4 @@ GAS_REPORT=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+This project is through womenbuildweb3 course as we build a full stack dapp
